@@ -9,10 +9,15 @@
 
 ### 💻 Tech Stack
 | **Programming Languages** | PHP, JavaScript, Python, Java, C, HTML5, CSS3, SQL |
+
 | **Web & Databases** | MySQL, Oracle Database, phpMyAdmin |
+
 | **Backend & Tools** | XAMPP, Apache, Node.js (via n8n) |
+
 | **AI & Automation** | n8n, AI Agent Workflows, Telegram APIs |
+
 | **Networking & Security** | Cisco, Wireshark |
+
 | **Design & IDEs** | Figma, Canva, VS Code, Git & GitHub |
 
 ---
