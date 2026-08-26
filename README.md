@@ -42,3 +42,7 @@
 * Full-Stack Web Development
 * Database Systems & Management
 * Network Configuration & Security
+
+---
+
+mailto:asmaaberradja@gmail.com
