@@ -45,4 +45,4 @@
 
 ---
 
-mailto:asmaaberradja@gmail.com
+[📧 Email Me](mailto:asmaaberradja@gmail.com)
